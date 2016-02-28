@@ -1,4 +1,4 @@
-# simple-bpmn-php-engine
+# simple-bpm-php-engine
 
 A Simple BPM Engine for PHP
 

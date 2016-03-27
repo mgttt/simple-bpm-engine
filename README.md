@@ -11,9 +11,9 @@ Substantially, execute logic according to the flow design by the BPMN Editor (fr
 <pre>
 $rt=cmp::runBPM(array(
 	"bpmn_name"=>"TestJob_PingSystemAlive",
-	"activity_code"=>$activity_code,
-	"BpmMode"=>"Default",//Default|Orm|Session|Mysql|MongoDB|Redis|... , Default is Sessionless & Sync
-	//"timeout"=>30,//0 for infinite
+	"bpmn_activity"=>bpmn_activity,
+	"bpmn_mode"=>"Default",//Default|Orm|Session|Mysql|MongoDB|Redis|... , Default is Sessionless & Sync
+	//"bpmn_timeout"=>30,//0 for infinite
 ));
 println($rt);
 </pre>

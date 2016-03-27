@@ -18,7 +18,7 @@ $rt=cmp::runBPM(array(
 println($rt);
 </pre>
 
-= BPMN2 XML Designer/Editor 
+# BPMN2 XML Designer/Editor 
 
 Official Website => http://bpmn.io/
 
@@ -27,7 +27,7 @@ Download =>  http://bpmn.io/getting-started/#download
 WebApp => http://bpmn.io/desktop/
 
 
-= Dependency
+# Dependency
 
 * CMP PHP Framework (Other Framework is easy to support) => http://cmptech.info/
 

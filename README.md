@@ -2,7 +2,7 @@
 
 A Simple BPM Engine for PHP
 
-<img src="/wanjochan/simple-bpm-php-engine/raw/master/sample.bpm.ping.system.png"/>
+<img src="../../raw/master/sample.bpm.ping.system.png"/>
 
 = Dependency
 

@@ -2,6 +2,8 @@
 
 A Simple BPM Engine for PHP
 
+<img src="raw/master/sample.bpm.ping.system.png"/>
+
 = Dependency
 
 * BPMN2 XML Designer =>

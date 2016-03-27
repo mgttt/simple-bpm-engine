@@ -1,15 +1,15 @@
 # simple-bpm-php-engine
 
-A Simple BPM Engine for PHP
+Target: Simple & Practical & Production-ready
 
 <img src="../../raw/master/sample.bpm.ping.system.png"/>
 
+Substantially, execute logic according to the flow design by the Camunda BPMN Editor...
+
+= BPMN2 XML Designer/Editor => http://bpmn.io/
+
 = Dependency
 
-* BPMN2 XML Designer =>
-http://bpmn.io/
-
-* CMP PHP Framework (Other Framework is coming to support) =>
-http://cmptech.info/
+* CMP PHP Framework (Other Framework is easy to support) => http://cmptech.info/
 
 

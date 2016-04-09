@@ -2,9 +2,8 @@
 
 Target: Simple & Practical & Production-ready
 
+<img src="https://www.processon.com/chart_image/570760d2e4b0bf3d8ff7750c.png" />
 <img src="../../raw/master/sample.bpm.ping.system.png"/>
-
-https://www.processon.com/embed/570759a0e4b0dcddf98190f1
 
 Substantially, execute logic according to the flow design by the BPMN Editor (from http://bpmn.io/)...
 

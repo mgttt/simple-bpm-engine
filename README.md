@@ -8,7 +8,7 @@ https://www.processon.com/embed/570759a0e4b0dcddf98190f1
 
 Real World Example: 
 https://www.processon.com/view/link/5724e3f4e4b0c618eb3dfd7a
-![alt tag](https://www.processon.com/chart_image/5724e338e4b0c618eb3dfafc.png)
+![alt tag](https://www.processon.com/chart_image/572551a9e4b0c618eb3e5b3e.png)
 
 Substantially, execute logic according to the flow design by the BPMN Editor (from http://bpmn.io/ or http://processon.com)...
 
